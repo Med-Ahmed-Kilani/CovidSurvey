@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TryTheApi</string>
+    <array name="age">
+        <item>--15</item>
+        <item>15-49</item>
+        <item>50-64</item>
+        <item>65++</item>
+    </array>
+    <string name="question1">Avez-vous la sensation d’être fiévreux, d’avoir des frissons comme lors d’une grippe, ou
+une fièvre mesurée avec une température prise par la bouche égale ou supérieure à 38 °C?</string>
+    <string name="question2">Avez-vous de la toux récente ou empirée depuis peu?</string>
+    <string name="question3">Avez-vous de la difficulté à respirer ou êtes-vous essoufflé?</string>
+    <string name="question4">Avez-vous une perte soudaine de l’odorat ou du goût?</string>
+    <string name="question5">Fatigue intense inhabituelle sans raison évidente
+Douleurs musculaires ou courbatures inhabituelles (non liées à un effort physique)</string>
+</resources>
